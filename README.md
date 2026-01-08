@@ -17,3 +17,8 @@ The dashboard helps analyze sales performance across regions, product categories
 ## Project Status
 This project is currently being organized and documented.  
 Further improvements and enhancements will be added.
+
+## Data Preparation
+The raw sales data was cleaned and transformed using Power Query before building the dashboard.
+
+![Transformed Data](screenshots/transformed_data.png)
