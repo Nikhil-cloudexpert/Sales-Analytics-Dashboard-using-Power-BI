@@ -2,23 +2,33 @@
 
 ## Overview
 This project presents an interactive Sales Analytics Dashboard built using Microsoft Power BI.  
-The dashboard helps analyze sales performance across regions, product categories, and time periods.
+The dashboard provides insights into sales performance across regions, product categories, and time periods, enabling data-driven analysis and decision-making.
+
+## Dashboard Preview
+![Dashboard Overview](screenshots/Dashboard_Overview.png)
 
 ## Tools Used
 - Microsoft Power BI
-- Microsoft Excel (for dataset)
+- Microsoft Excel
 
 ## Key Features
-- Sales and profit KPIs
-- Regional and category-wise analysis
+- Key performance indicators (Sales, Profit, Quantity, Orders)
+- Region-wise and category-wise sales analysis
 - Monthly sales trend visualization
-- Interactive filters for better insights
-
-## Project Status
-This project is currently being organized and documented.  
-Further improvements and enhancements will be added.
+- Interactive filters for dynamic data exploration
 
 ## Data Preparation
-The raw sales data was cleaned and transformed using Power Query before building the dashboard.
+The raw sales dataset was cleaned and transformed using Power Query before building the dashboard.  
+This included handling data types, renaming columns, and preparing the data for analysis.
 
 ![Transformed Data](screenshots/transformed_data.png)
+
+## Project Context
+This dashboard was initially created as part of guided learning and later refined, structured, and documented independently for portfolio use.
+
+## Project Status
+Completed.  
+Future enhancements may include advanced DAX measures and deeper customer-level analysis.
+
+## Author
+**Nikhil**
