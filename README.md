@@ -20,6 +20,7 @@ The dashboard provides insights into sales performance across regions, product c
 ## Data Preparation
 The raw sales dataset was cleaned and transformed using Power Query before building the dashboard.  
 This included handling data types, renaming columns, and preparing the data for analysis.
+The dataset has ~500 rows of sales transactions with columns like OrderDate, Region, Category, Sales, Profit.
 
 ![Transformed Data](screenshots/transformed_data.png)
 
